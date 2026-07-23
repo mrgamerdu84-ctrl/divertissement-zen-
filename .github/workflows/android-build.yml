@@ -32,6 +32,19 @@ jobs:
             npx cap sync android
           fi
 
+      - name: Générer l'icône et l'écran de lancement
+        run: >-
+          npx --yes @capacitor/assets@3.0.5 generate --android
+          --assetPath assets
+          --iconBackgroundColor '#16302B'
+          --iconBackgroundColorDark '#16302B'
+          --splashBackgroundColor '#16302B'
+          --splashBackgroundColorDark '#10231F'
+          --logoSplashScale 0.24
+
+      - name: Synchroniser les ressources Android
+        run: npx cap sync android
+
       - name: Installer Java
         uses: actions/setup-java@v4
         with:
