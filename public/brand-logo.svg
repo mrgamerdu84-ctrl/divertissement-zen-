@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Mon Divertissement Zen Plus</title>
+  <desc id="desc">Boussole douce avec soleil et feuille, symbole de sorties zen.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="512" cy="512" r="330" fill="#F4B740"/>
+    <circle cx="512" cy="512" r="244" fill="#16302B"/>
+    <path d="M512 312c42 92 77 127 169 169-92 42-127 77-169 169-42-92-77-127-169-169 92-42 127-77 169-169Z" fill="#F5F7F1"/>
+    <path d="M512 381 570 512 512 643 454 512 512 381Z" fill="#EF5F4E"/>
+    <circle cx="512" cy="512" r="44" fill="#F4B740" stroke="#16302B" stroke-width="18"/>
+    <path d="M760 256c50 3 82 31 86 82-50-3-82-31-86-82Z" fill="#E4EFE3" stroke="#16302B" stroke-width="18"/>
+    <path d="M754 350c20-39 47-66 86-86" stroke="#16302B" stroke-width="18"/>
+    <path d="M226 716h104M278 664v104" stroke="#F5F7F1" stroke-width="26"/>
+  </g>
+</svg>
