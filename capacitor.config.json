@@ -1,0 +1,8 @@
+{
+  "appId": "com.mondivertissement.zenplus",
+  "appName": "Mon Divertissement Zen+",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
