@@ -5,6 +5,7 @@ import "./index.css";
 import "./personnalisation.js";
 import "./transports-dynamiques.js";
 import "./lieux-reels.js";
+import "./assistant-vocal.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
