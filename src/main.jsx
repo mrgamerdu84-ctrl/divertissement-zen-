@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import "./personnalisation.js";
-import "./transports.js";
+import "./transports-dynamiques.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
